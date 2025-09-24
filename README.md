@@ -1,2 +1,4 @@
 # Jurnal-DWES
-No soy Yago
+ 
+ ACTIVIDADES de la clase DWES
+ 
